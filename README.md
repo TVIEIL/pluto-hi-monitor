@@ -2,6 +2,9 @@
 
 Moniteur spectral temps réel en mode console pour l'observation de la raie d'hydrogène neutre (HI à 1420,405 MHz) avec l'ADALM-PLUTO (AD9361).
 
+<img width="1089" height="658" alt="Capture d’écran du 2026-10-25 19-30-33" src="https://github.com/user-attachments/assets/a1141201-fd9e-44c1-b9fe-a1bfd5beeb6e" />
+
+
 ## Fonctionnalités
 
 - **Interface terminal ANSI :** 21 canaux spectralement intégrés sans scintillement.
