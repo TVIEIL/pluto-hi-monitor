@@ -21,7 +21,7 @@ Moniteur spectral temps réel en mode console pour l'observation de la raie d'hy
 ### Compilation de sigutils
 
 ```bash
-git clone [https://github.com/BatchDrake/sigutils.git](https://github.com/BatchDrake/sigutils.git)
+git clone  https://github.com/BatchDrake/sigutils.git
 cd sigutils
 git submodule update --init --recursive
 mkdir build && cd build
